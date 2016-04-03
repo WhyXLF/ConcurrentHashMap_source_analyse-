@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 /*
-=======
-/*ccccccccccccccccc
- *This is new branch
- * clp also write a word
->>>>>>> parent of fe17f00... Revert "new branch"
  * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  *
  *
